@@ -97,4 +97,4 @@ This project is for **educational and research purposes only**.
 - Not intended for real trading or investment
 - No warranties or guarantees provided
 - Creator assumes no liability for financial losses
-- Consult a financial advisor before making any investment decisions
+- Consult a qualified financial advisor before making any investment decisions
