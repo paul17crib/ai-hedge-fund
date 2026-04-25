@@ -42,13 +42,9 @@ This project is for **educational and research purposes only**.
 - Consult a financial advisor for investment decisions
 - Past performance does not indicate future results
 
-By using this software, you agree to use it solely for learning purposes.
+By using this software, you agree to use it solely for learning
 
-## Table of Contents
-- [How to Install](#how-to-install)
-- [How to Run](#how-to-run)
-  - [⌨️ Command Line Interface](#️-command-line-interface)
-  - [🖥️ Web Application](#️-web-application)
-- [How to Contribute](#how-to-contribute)
-- [Feature Requests](#feature-requests)
-- [License](#licens
+## My Notes
+
+- Agents I find most interesting to study: **Ben Graham**, **Charlie Munger**, and **Phil Fisher** — good contrast between pure value and quality-growth thinking.
+- TODO: run a backtest comparing Graham vs. Cathie Wood signals on the same ticker over 2020–2023 to see how they diverge during a high-growth cycle.
